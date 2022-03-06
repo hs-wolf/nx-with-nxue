@@ -10,7 +10,7 @@
       "options": {
         "outputPath": "dist/apps/backoffice",
         "baseHref": "/",
-        "configFile": "@nxext/vite/plugins/vite"
+        "configFile": "apps/backoffice/vite.config.ts"
       },
       "configurations": {
         "production": {
@@ -28,7 +28,7 @@
       "options": {
         "outputPath": "dist/apps/backoffice",
         "baseHref": "/",
-        "configFile": "@nxext/vite/plugins/vite"
+        "configFile": "apps/backoffice/vite.config.ts"
       },
       "configurations": {
         "production": {
