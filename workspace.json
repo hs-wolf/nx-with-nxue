@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "backoffice": "apps/backoffice",
     "models": "libs/models",
     "monolith": "apps/monolith",
     "utils": "libs/utils"

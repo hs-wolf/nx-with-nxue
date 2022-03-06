@@ -29,5 +29,15 @@
       }
     ]
   },
-  "defaultProject": "monolith"
+  "defaultProject": "monolith",
+  "generators": {
+    "@nxext/vite": {
+      "application": {
+        "linter": "eslint"
+      },
+      "library": {
+        "linter": "eslint"
+      }
+    }
+  }
 }
