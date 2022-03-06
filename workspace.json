@@ -1,6 +1,8 @@
 {
   "version": 2,
   "projects": {
-    "monolith": "apps/monolith"
+    "models": "libs/models",
+    "monolith": "apps/monolith",
+    "utils": "libs/utils"
   }
 }
