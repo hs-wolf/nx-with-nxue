@@ -15,8 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@winarize-deal-flow/models": ["libs/models/src/index.ts"],
-      "@winarize-deal-flow/utils": ["libs/utils/src/index.ts"]
+      "@nx-with-nxue/models": ["libs/models/src/index.ts"],
+      "@nx-with-nxue/utils": ["libs/utils/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

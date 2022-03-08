@@ -1,0 +1,36 @@
+default-layout:
+  title: ' Aplicação CSR Opinativo e orientado a Nx'
+  layout: '[ Layout Padrão ]'
+name-layout:
+  title: 'Esse é um exemplo de Roteamente Dinâmico.'
+  layout: '[ Layout Nome ]'
+404:
+  title: 'Essa página não existe.'
+  layout: '[ Layout 404 ]'
+home:
+  title: '[ Página Principal ]'
+  whats-your-name: 'Qual o seu nome?'
+  button-go: 'Vai!'
+  welcome: 'Bem vindo {name}'
+  models-check: 'Checagem da biblioteca Models:'
+  utils-check: 'Checagem da biblioteca Utils:'
+  working: 'Funcionando'
+  broken: 'Quebrado'
+features:
+  title: '[ Página de Recursos ]'
+  vite: 'Empacotamento super rápido com Vite.'
+  nx: 'Diretório do projeto orientado para monorepos do Nx.'
+  typescript: 'Typescript como esperado.'
+  vue: 'Importação automática de APIs do Vue.'
+  routing: 'Roteamento baseado em arquivos com template de layouts.'
+  components: 'Importação automática de componentes e espaçamento de nomes baseado em pastas.'
+  icons: 'Importação automática de icones do Iconify.'
+  i18n: 'Globalização com i18n.'
+  pinia: 'Gestão de estado com Pinia.'
+  windicss: 'Estilo e analytics dce CSS com WindiCSS.'
+  nprogress: 'Indicador de carregamento maneiro com nprogress.'
+name:
+  title: '[ Página de Roteamento Dinâmico ]'
+  back-to-home: 'Voltar à Principal'
+all:
+  back-to-home: 'Voltar à Principal'

@@ -1,0 +1,36 @@
+default-layout:
+  title: 'Opinionated and Nx oriented CSR Application'
+  layout: '[ Default Layout ]'
+name-layout:
+  title: 'This is an example of dynamic routing.'
+  layout: '[ Name Layout ]'
+404:
+  title: "This page doesn't exist."
+  layout: '[ 404 Layout ]'
+home:
+  title: '[ Home Page ]'
+  whats-your-name: "What's your name?"
+  button-go: 'Go'
+  welcome: 'Welcome {name}'
+  models-check: 'Models library check:'
+  utils-check: 'Utils library check:'
+  working: 'Working'
+  broken: 'Broken'
+features:
+  title: '[ Features Page ]'
+  vite: 'Lightning fast bundling with Vite.'
+  nx: 'Project directory oriented for Nx monorepos.'
+  typescript: 'Typescript as expected.'
+  vue: 'Vue APIs auto imports.'
+  routing: 'File based routing with layout templates.'
+  components: 'Components auto import with folder namespacing.'
+  icons: 'Iconify auto imports.'
+  i18n: 'Globalization with i18n.'
+  pinia: 'State management with Pinia.'
+  windicss: 'Styling and CSS analytics with WindiCSS.'
+  nprogress: 'Cool loading indicator with nprogress.'
+name:
+  title: '[ Dynamic Routing Page ]'
+  back-to-home: 'Back to home'
+all:
+  back-to-home: 'Back to home'

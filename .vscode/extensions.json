@@ -1,6 +1,11 @@
 {
   "recommendations": [
     "nrwl.angular-console",
+    "antfu.vite",
+    "johnsoncodehk.volar",
+    "lokalise.i18n-ally",
+    "antfu.iconify",
+    "voorjaar.windicss-intellisense",
     "esbenp.prettier-vscode",
     "firsttris.vscode-jest-runner",
     "dbaeumer.vscode-eslint"

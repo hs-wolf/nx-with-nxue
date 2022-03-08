@@ -55,6 +55,12 @@
         "jestConfig": "apps/backoffice/jest.config.js",
         "passWithNoTests": true
       }
+    },
+    "windicss-analysis": {
+      "executor": "@nrwl/workspace:run-script",
+      "options": {
+        "script": "analysis"
+      }
     }
   },
   "tags": []

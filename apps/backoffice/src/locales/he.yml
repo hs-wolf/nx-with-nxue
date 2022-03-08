@@ -1,0 +1,36 @@
+'404':
+  title: הדף הזה לא קיים.
+  layout: '[ פריסה 404 ]'
+default-layout:
+  title: Opinionated and Nx oriented CSR Application
+  layout: '[ מערך ברירת מחדל ]'
+name-layout:
+  title: זוהי דוגמה לניתוב דינמי.
+  layout: '[ פריסת שם ]'
+home:
+  title: '[ דף הבית ]'
+  whats-your-name: מה שמך?
+  button-go: ללכת
+  welcome: ברוך הבא {name}
+  models-check: 'בדיקת ספריית דגמים:'
+  utils-check: 'בדיקת ספריית כלי עזר:'
+  working: 'עובד'
+  broken: 'שָׁבוּר'
+features:
+  title: '[ דף תכונות ]'
+  vite: צרור מהיר ברק עם Vite.
+  nx: ספריית פרויקטים מכוונת עבור Nx monorepos.
+  typescript: Typescript כצפוי.
+  vue: ייבוא אוטומטי של Vue APIs.
+  routing: ניתוב מבוסס קבצים עם תבניות פריסה.
+  components: ייבוא אוטומטי של רכיבים עם מרווח שמות של תיקיות.
+  icons: סמל ייבוא אוטומטי.
+  i18n: גלובליזציה עם i18n.
+  pinia: הנהלת מדינה עם Pinia.
+  windicss: סטיילינג וניתוח CSS עם WindiCSS.
+  nprogress: 'מחוון טעינה מגניב עם nprogress.'
+name:
+  title: '[ דף ניתוב דינמי ]'
+  back-to-home: בחזרה לבית
+all:
+  back-to-home: בחזרה לבית
