@@ -10,17 +10,9 @@ declare module 'vue' {
     'IconCarbon:language': typeof import('~icons/carbon/language')['default']
     'IconCarbon:listChecked': typeof import('~icons/carbon/list-checked')['default']
     'IconCarbon:logoGithub': typeof import('~icons/carbon/logo-github')['default']
-    'IconDashicons:blockDefault': typeof import('~icons/dashicons/block-default')['default']
-    'IconEosIcons:loading': typeof import('~icons/eos-icons/loading')['default']
-    'IconFluent:arrowRouting24Filled': typeof import('~icons/fluent/arrow-routing24-filled')['default']
-    'IconIc:baselineLanguage': typeof import('~icons/ic/baseline-language')['default']
     IconLogosNx: typeof import('~icons/logos/nx')['default']
     IconLogosVitejs: typeof import('~icons/logos/vitejs')['default']
     IconLogosVue: typeof import('~icons/logos/vue')['default']
-    'IconNoto:pineapple': typeof import('~icons/noto/pineapple')['default']
-    'IconSimpleIcons:iconify': typeof import('~icons/simple-icons/iconify')['default']
-    'IconSimpleIcons:windicss': typeof import('~icons/simple-icons/windicss')['default']
-    'IconVscodeIcons:fileTypeTypescript': typeof import('~icons/vscode-icons/file-type-typescript')['default']
     Navbar: typeof import('./app/components/Navbar.vue')['default']
   }
 }
