@@ -32,7 +32,7 @@ const changeLocale = () => {
     <button @click.prevent="changeLocale()">
       <icon-carbon:language />
     </button>
-    <a href="https://github.com/josh-israel" target="_blank">
+    <a href="https://github.com/josh-israel/nx-with-nxue" target="_blank">
       <icon-carbon:logo-github />
     </a>
   </div>
