@@ -5,12 +5,8 @@
 declare module 'vue' {
   export interface GlobalComponents {
     HelloWorld: typeof import('./app/components/HelloWorld.vue')['default']
-    'IconEmojione:flagFor-\xF9s': typeof import('~icons/emojione/flag-for-/x-f9s')['default']
     'IconEmojione:flagForIsrael': typeof import('~icons/emojione/flag-for-israel')['default']
-    'IconEmojione:flagForUni': typeof import('~icons/emojione/flag-for-uni')['default']
     'IconEmojione:flagForUnitedKingdom': typeof import('~icons/emojione/flag-for-united-kingdom')['default']
-    'IconEmojione:flagForUnitedStates': typeof import('~icons/emojione/flag-for-united-states')['default']
-    'IconEmojione:flagForUs': typeof import('~icons/emojione/flag-for-us')['default']
   }
 }
 
