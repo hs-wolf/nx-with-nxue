@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "backoffice": "apps/backoffice",
+    "barebones": "apps/barebones",
     "models": "libs/models",
     "monolith": "apps/monolith",
     "utils": "libs/utils"

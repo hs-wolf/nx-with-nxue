@@ -1,0 +1,33 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../../dist/out-tsc",
+    "module": "ESNext",
+    "types": [
+      "node",
+      "vite/client",
+      "vite-plugin-pages/client",
+      "vite-plugin-vue-layouts/client"
+    ],
+    "lib": ["ESNext", "DOM"],
+    "moduleResolution": "Node",
+    "target": "ESNext",
+    "useDefineForClassFields": true,
+    "strict": true,
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "baseUrl": ".",
+    "paths": {
+      "@src/*": ["./src/*"]
+    },
+    "composite": true,
+    "declaration": true
+  },
+  "files": ["../../windi.config.ts"],
+  "include": ["**/*.ts", "**/*.js", "**/*.vue"],
+  "exclude": ["**/*.spec.ts", "**/*.test.ts"]
+}

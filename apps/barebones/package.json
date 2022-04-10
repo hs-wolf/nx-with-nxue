@@ -1,0 +1,8 @@
+{
+  "name": "@nx-with-nxue/barebones",
+  "version": "0.0.1",
+  "type": "commonjs",
+  "scripts": {
+    "analysis": "windicss-analysis"
+  }
+}
